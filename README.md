@@ -22,9 +22,13 @@ A full-stack web application for managing doctor profiles — add, update, delet
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/f67b0666-1445-483a-9961-d07751679bf9)
+
 ![image](https://github.com/user-attachments/assets/78e53f7c-466d-4422-ad2e-d9d407c7a357)
+
 ![image](https://github.com/user-attachments/assets/9c3dcb86-3aa1-4a1c-ab24-6a5230409914)
-![image](https://github.com/user-attachments/assets/57d19cf8-350c-46dc-9bc8-bba80d403401)
+
+![image](https://github.com/user-attachments/assets/3b181734-360d-4baa-b302-2403d227f2c8)
+
 
 
 ## 🔧 Installation
